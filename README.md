@@ -30,4 +30,4 @@ If you are a Scratch Contributor and want to join us, then you can either open a
 ## Location
 GitHub: https://github.com/ScratchContributors                                                                                        Scratch Studio: https://scratch.mit.edu/studios/26335791/
 
-This site is licensed under the Apache License Version 3.0.
+This site is licensed under the GNU Public License Version 3.0.
