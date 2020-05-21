@@ -6,7 +6,7 @@ We are:
 1) Scratch Design Studio (SDS) Curators
 2) Scratch Design Studio (SDS) Translators
 3) Scratch Wiki Contributors (of all Scratch Wikis)
-4) Former Moderators(who used to moderate 1.x)
+4) Former Moderators (who used to moderate 1.x)
 5) Scratch Translators
 6) Scratch Welcoming Committee Curators
 7) Scratch Welcoming Committee Translators
