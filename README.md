@@ -23,9 +23,11 @@ We are:
 18) Front Page Curator Translators
 19) Users who have got pull requests merged on GitHub
 
+## About Our Members
+All of our members have contributed to Scratch in different ways! You can read about them here- https://scratchcontributors.github.io/contributorbios/ .
+
 ## How You Can Join Us
 If you are a Scratch Contributor and want to join us, then you can either open an issue in our GitHub repository or leave a comment in our studio on Scratch.
-
 
 ## Location
 GitHub: https://github.com/ScratchContributors                                                                                        Scratch Studio: https://scratch.mit.edu/studios/26335791/
